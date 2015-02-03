@@ -36,13 +36,13 @@ Bare bones project that shows how to integrate AngularJS with RequireJS, powered
     
 # How To Install #
 
-1. Copy the project into your chosen directory by running by running
+1. Copy the project into your chosen directory by running
 
     `git clone git@github.com:neara/angular-requirejs-example.git`
     
-2. cd into directory that holds `package.json`
+2. `cd` into directory that holds `package.json`
     
-3. To install all project level npm dependencies run
+3. To install all project system dependencies run
 
     `npm install`
     
@@ -54,10 +54,13 @@ Bare bones project that shows how to integrate AngularJS with RequireJS, powered
     
     `grunt test`
     
-6. To view the app in browser run
+    
+# How To Run #
+
+1. To view the app in browser, run
 
     `grunt serve`
     
-7. To view production ready app run
+2. To view production-ready app, run
 
     `grunt serve:dist`
